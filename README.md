@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @farrasbarriq
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Laravel
+
 
 
 <!---
